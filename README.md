@@ -1,5 +1,10 @@
 ## 👋Hi, I'm Mai
-
+🔭 I’m currently working on modern frontend projects using React, Next.js & Tailwind CSS  
+👯 I’m looking to collaborate on open-source UI libraries, dashboards, or eCommerce platforms  
+🤝 I’m looking for help with advanced animation and performance optimization in React  
+🌱 I’m currently learning TypeScript and design systems   
+💬 Ask me about React, frontend architecture, or how to make clean and maintainable UIs  
+⚡ Fun fact: I can spend hours tweaking a button’s shadow just to get that perfect vibe ✨  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phanmai03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inet.ngocmai.v6@gmail.com) 
 
