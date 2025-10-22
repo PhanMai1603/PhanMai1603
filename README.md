@@ -15,7 +15,6 @@
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhanMai1603)](https://github.com/anuraghazra/github-readme-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=PhanMai1603&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanMai1603&theme=swift&hide_border=false&layout=compact)
 
 ---
